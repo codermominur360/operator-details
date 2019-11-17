@@ -1,0 +1,57 @@
+.pd{
+    padding: 30px 0px;
+    background: #f5f3f340;
+}
+
+/* top banner area*/
+.banner-area {
+    padding: 27px 0px;
+}
+/*operator image*/
+.panel img {
+    text-align: center;
+    margin-top: 31px;
+    margin-left: 60px;
+    box-sizing: border-box;
+    border: 1px solid;
+    box-shadow: -5px 6px 5px 3px #ddd;
+}
+/*operator description */
+.description {
+    font-size: 15px;
+    font-family: inherit;
+    text-align: justify;
+}
+
+/* Journey length and time*/
+.distance_area {
+    display: inline-flex;
+    padding: 19px 106px;
+    background: #f5f3f3;
+}
+
+.distance {
+    border-top: 2px solid #002e3c;
+    text-align: center;
+    font-family: fantasy;
+    padding: 4px 25px;
+    border-bottom: 2px solid #002e3c;
+}
+
+.hour {
+    border-top: 2px solid #002e3c;
+    text-align: center;
+    font-family: fantasy;
+    padding: 4px 20px;
+    border-bottom: 2px solid #002e3c;
+    margin-left: 50px;
+}
+
+/*bus time schedule*/
+.operator_schedule {
+    background: #f5f3f340;
+}
+span.hrTag hr {
+    border: 1px solid #002e3c;
+    border-radius: 106px;
+}
