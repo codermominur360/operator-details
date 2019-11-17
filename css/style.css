@@ -2,6 +2,9 @@
     padding: 30px 0px;
     background: #f5f3f340;
 }
+.pd h4{
+    color: #1e7e34;
+}
 
 /* top banner area*/
 .banner-area {
@@ -21,6 +24,10 @@
     font-size: 15px;
     font-family: inherit;
     text-align: justify;
+}
+span.khadija-paribahan {
+    color: #2ec70c;
+    font-weight: 700;
 }
 
 /* Journey length and time*/
